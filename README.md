@@ -22,3 +22,9 @@ The figure below summarizes the workflow within this technique:
 
 
 # Sample Files
+Please check our Zenodo Repository for a set of sample raw data used with this code:
+[10.5281/zenodo.18118110](https://doi.org/10.5281/zenodo.18118110)
+
+
+Please contact [fzigunov@syr.edu](fzigunov@syr.edu) if you have any questions or trouble using this work!
+
