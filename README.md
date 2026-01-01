@@ -20,6 +20,11 @@ Considering citing the above publications if you use this code or setup ideas in
 The figure below summarizes the workflow within this technique:
 ![alt text](https://github.com/3dfernando/tron-bos/blob/main/img/Workflow.PNG "Workflow")
 
+1. Set up a telecentric system (see manuscript) and acquire BOS images of a speckle background while the nozzle runs and rotates slowly;
+2. Use a speckle displacement code/program (PIV program, for example) to obtain vector displacements [Not offered by this code];
+3. Use a gradient inversion solver (we used our open-source OSMODI solver) to obtain the line-integrated density measurements;
+4. Perform a slice-by-slice Filtered Backprojection (Inverse Radon Transform) to obtain the slice reconstructions;
+5. Stack the slices into a volume. Apply scaling constants and shift the free stream level to a known value of density.
 
 # Sample Files
 Please check our Zenodo Repository for a set of sample raw data used with this code:
