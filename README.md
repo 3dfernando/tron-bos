@@ -1,5 +1,5 @@
 # TRON-BOS
-TRON-BOS (Telecentric Rotating Nozzle Background Oriented Schlieren) is a technique to obtain volumetric density fields through parallel-ray density tomography. 
+TRON-BOS (Telecentric Rotating Nozzle Background Oriented Schlieren) is a technique to obtain volumetric density fields through parallel-ray density tomography by using a nozzle mounted on a rotating pipe. 
 
 # Pre-Requisites
 This code currently requires:
